@@ -13,3 +13,5 @@ Controles:
 W/A/S/D - Mover
 
 M1/M2 - Jogar gancho
+
+Espaço - Pular
